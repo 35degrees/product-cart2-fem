@@ -3,6 +3,7 @@
 	import data from '/src/lib/data.json';
 	import Currency from './Currency.svelte';
 	import Cart from './Cart.svelte';
+	import { get } from 'svelte/store';
 
 	let cartItems = $state([]);
 
@@ -77,7 +78,12 @@
 		{#each data as data, i}
 			<div class="card flex h-auto w-full flex-col gap-6 md:gap-5">
 				<div class="relative w-full">
-					<img src={data.image.mobile} alt="menu item" class="rounded-xl" />
+					<img
+						src={data.image.mobile}
+						alt="menu item"
+						class="rounded-xl border-2 border-transparent"
+						class:add-outline={getQuantity(i)}
+					/>
 
 					{#if cartItems.find((item) => item.id === data.number)}
 						<button
@@ -149,5 +155,8 @@
 		&:hover {
 			background-color: #ffffff2f;
 		}
+	}
+	.add-outline {
+		border: 2px solid hsla(14, 86%, 42%, 0.437);
 	}
 </style>
