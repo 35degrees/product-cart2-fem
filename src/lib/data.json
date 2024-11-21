@@ -1,0 +1,92 @@
+[
+	{
+		"image": {
+			"thumbnail": "https://github.com/35degrees/product-cart-fem/blob/main/src/lib/images/image-waffle-thumbnail.jpg?raw=true",
+			"mobile": "https://github.com/35degrees/product-cart-fem/blob/main/src/lib/images/image-waffle-mobile.jpg?raw=true"
+		},
+		"name": "Waffle with Berries",
+		"category": "Waffle",
+		"price": 6.5,
+		"number": 0
+	},
+	{
+		"image": {
+			"thumbnail": "https://github.com/35degrees/product-cart-fem/blob/main/src/lib/images/image-creme-brulee-thumbnail.jpg?raw=true",
+			"mobile": "https://github.com/35degrees/product-cart-fem/blob/main/src/lib/images/image-creme-brulee-mobile.jpg?raw=true"
+		},
+		"name": "Vanilla Bean Crème Brûlée",
+		"category": "Crème Brûlée",
+		"price": 7.0,
+		"number": 1
+	},
+	{
+		"image": {
+			"thumbnail": "https://github.com/35degrees/product-cart-fem/blob/main/src/lib/images/image-macaron-thumbnail.jpg?raw=true",
+			"mobile": "https://github.com/35degrees/product-cart-fem/blob/main/src/lib/images/image-macaron-mobile.jpg?raw=true"
+		},
+		"name": "Macaron Mix of Five",
+		"category": "Macaron",
+		"price": 8.0,
+		"number": 2
+	},
+	{
+		"image": {
+			"thumbnail": "https://github.com/35degrees/product-cart-fem/blob/main/src/lib/images/image-tiramisu-thumbnail.jpg?raw=true",
+			"mobile": "https://github.com/35degrees/product-cart-fem/blob/main/src/lib/images/image-tiramisu-mobile.jpg?raw=true"
+		},
+		"name": "Classic Tiramisu",
+		"category": "Tiramisu",
+		"price": 5.5,
+		"number": 3
+	},
+	{
+		"image": {
+			"thumbnail": "https://github.com/35degrees/product-cart-fem/blob/main/src/lib/images/image-baklava-thumbnail.jpg?raw=true",
+			"mobile": "https://github.com/35degrees/product-cart-fem/blob/main/src/lib/images/image-baklava-mobile.jpg?raw=true"
+		},
+		"name": "Pistachio Baklava",
+		"category": "Baklava",
+		"price": 4.0,
+		"number": 4
+	},
+	{
+		"image": {
+			"thumbnail": "https://github.com/35degrees/product-cart-fem/blob/main/src/lib/images/image-meringue-thumbnail.jpg?raw=true",
+			"mobile": "https://github.com/35degrees/product-cart-fem/blob/main/src/lib/images/image-meringue-mobile.jpg?raw=true"
+		},
+		"name": "Lemon Meringue Pie",
+		"category": "Pie",
+		"price": 5.0,
+		"number": 5
+	},
+	{
+		"image": {
+			"thumbnail": "https://github.com/35degrees/product-cart-fem/blob/main/src/lib/images/image-cake-thumbnail.jpg?raw=true",
+			"mobile": "https://github.com/35degrees/product-cart-fem/blob/main/src/lib/images/image-cake-mobile.jpg?raw=true"
+		},
+		"name": "Red Velvet Cake",
+		"category": "Cake",
+		"price": 4.5,
+		"number": 6
+	},
+	{
+		"image": {
+			"thumbnail": "https://github.com/35degrees/product-cart-fem/blob/main/src/lib/images/image-brownie-thumbnail.jpg?raw=true",
+			"mobile": "https://github.com/35degrees/product-cart-fem/blob/main/src/lib/images/image-brownie-mobile.jpg?raw=true"
+		},
+		"name": "Salted Caramel Brownie",
+		"category": "Brownie",
+		"price": 4.5,
+		"number": 7
+	},
+	{
+		"image": {
+			"thumbnail": "https://github.com/35degrees/product-cart-fem/blob/main/src/lib/images/image-panna-cotta-thumbnail.jpg?raw=true",
+			"mobile": "https://github.com/35degrees/product-cart-fem/blob/main/src/lib/images/image-panna-cotta-mobile.jpg?raw=true"
+		},
+		"name": "Vanilla Panna Cotta",
+		"category": "Panna Cotta",
+		"price": 6.5,
+		"number": 8
+	}
+]
